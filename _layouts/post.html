@@ -66,7 +66,11 @@
           <div class="isLeft">
             <h5 class="index-headline featured"><span>Written by</span></h5>
             <section class="author">
-              <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
+              {% if page.user %}
+<div class="author-image" style="background-image: url("http://i.imgur.com/IbxM6Mq.jpg?1")">Blog Logo</div>
+{% else %}
+<div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
+{% endif %}
               <h4>{% if page.user %}
               {{ page.user }}
               {% else %}
