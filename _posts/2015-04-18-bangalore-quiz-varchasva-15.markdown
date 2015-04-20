@@ -8,7 +8,7 @@ tags: featured
 image: /assets/article_images/2015-04-18-General-Quiz-Varchasva-15/mootwoot_white.png
 ---
 
-<iframe src="https://docs.google.com/presentation/embed?id=1bNFsXKdkPL-EDxWHfCPuc-GvZES76qANIH8U6fOk5Kw&amp;start=false&amp;loop=false&amp; frameborder="0"  width="780" height="607.5"></iframe>
+<iframe src="https://docs.google.com/presentation/embed?id=1bNFsXKdkPL-EDxWHfCPuc-GvZES76qANIH8U6fOk5Kw&amp;start=false&amp;loop=false&amp; frameborder="0" width="520" height="405"></iframe>
 <br><br><br>
 
 Finals coming soon!
