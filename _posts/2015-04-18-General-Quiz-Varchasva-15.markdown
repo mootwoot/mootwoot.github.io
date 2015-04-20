@@ -7,10 +7,11 @@ categories: quiz-reports
 tags: featured
 image: /assets/article_images/2015-04-18-General-Quiz-Varchasva-15/mootwoot_white.png
 ---
-The second ever mootwoot quiz or as we say 'wutwoot'
 
+<iframe src="https://docs.google.com/presentation/embed?id=1bNFsXKdkPL-EDxWHfCPuc-GvZES76qANIH8U6fOk5Kw&amp;start=false&amp;loop=false&amp; frameborder="0" width="520" height="405"></iframe>
+<br><br><br>
 
-Check out [slides][jekyll] and try to answer them.
+Finals coming soon!
 
 
 [mootwoot]:      http://mootwoot.com
