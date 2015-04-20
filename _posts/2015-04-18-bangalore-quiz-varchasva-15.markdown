@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "General Quiz - Varchasva 15"
+title:  "Bangalore Quiz @ Varchasva '15"
 date:   2015-04-18 11:30:00
 user: kondi
 categories: quiz-reports
