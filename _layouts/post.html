@@ -72,7 +72,7 @@
               {% else %}
               {{ site.author }}
               {% endif %}</h4>
- <p class="bio">{{ site.{{page.user}}_bio }}</p>
+ <p class="bio">{{ author.bio }}</p>
               <hr>
               <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
             </section>
