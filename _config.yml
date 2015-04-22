@@ -34,12 +34,12 @@ social:
    # share_title: ?text=
 #    share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	facebook
+    url:	https://facebook.com/mootwoot
+      desc: Connect with us on Facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
 
 #  - icon:	github
  #   url:	https://github.com/dirkfabisch
@@ -48,9 +48,9 @@ social:
     #share_title:
     #share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+  - icon:	google-plus
+    url:	https://plus.google.com/u/0/b/107575178503509506071/107575178503509506071
+    desc: Connect with us on Google+
+    share_url:
+    share_title:
+    share_link:
